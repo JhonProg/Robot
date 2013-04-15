@@ -8,7 +8,7 @@ Se usó el algoritmo de búsqueda heurística A*; Se explicará brevemente.
   2. Descomponer sus nodos adyacentes. Para cada nodo adyacente enviarlo a la lista abierta si y sólo si no se encuentra en esta misma y tampoco en la lista cerrada.
   3. Almacenar en nodoAuxiliar ladirecciónn del padre.
   4. Asignar a nodoAuxiliar el menor de la lista abierta.
-3. Medición del tiempo:
+3. Medición del tiempo: (solo funcionó llamando una funcion, es decir el metodo que se reliza por los dos metodos no funciona)
   ```c++
       #include <stdio.h>
       #include <windows.h>
