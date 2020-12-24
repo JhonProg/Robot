@@ -1,6 +1,6 @@
 ## ¿Cómo funciona?
 
-Se usó el algoritmo de búsqueda heurística A*; Se explicará brevemente.
+Se usó el algoritmo de búsqueda heurística [A*](https://en.wikipedia.org/wiki/A*_search_algorithm); Se explicará brevemente.
 
 1. Tomar el nodo inicial y asignarlo a nodoAuxiliar.
 2. Realizar mientras la lista abierta no este vacía o mientras no se llegue a el objetivo.
