@@ -42,7 +42,7 @@ Este proyecto se distribuye bajo la licencia GNU GPL v3. http://www.gnu.org/lice
 
 
 ## Autores:
-Somos estudiantes de la universidad Distrital Francisco José de Caldas. El proyecto fue un trabajo para la materia de inteligencia artificial.
+Somos estudiantes de la Universidad Distrital Francisco José de Caldas. El proyecto fue un trabajo para la asignatura de Inteligencia Artificial.
 
 Copyright (C) 2013-today:
 * Camilo Ramírez: camilortte@hotmail.com, [@camilortte](https://twitter.com/camilortte) on Twitter.
