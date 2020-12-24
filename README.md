@@ -45,5 +45,5 @@ Este proyecto se distribuye bajo la licencia GNU GPL v3. http://www.gnu.org/lice
 Somos estudiantes de la universidad Distrital Francisco José de Caldas. El proyecto fue un trabajo para la materia de inteligencia artificial.
 
 Copyright (C) 2013-today:
-* Camilo Ramírez camilortte@hotmail.com, [@camilortte](https://twitter.com/camilortte) on Twitter.
-* Jhon Puentes jhonpuentes93@hotmail.com
+* Camilo Ramírez: camilortte@hotmail.com, [@camilortte](https://twitter.com/camilortte) on Twitter.
+* Jhon Freddy Puentes: jfredypuentes@gmail.com [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter. 
